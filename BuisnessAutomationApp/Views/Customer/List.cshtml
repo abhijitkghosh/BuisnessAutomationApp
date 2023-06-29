@@ -1,0 +1,51 @@
+﻿@using BuisnessAutomationApp.Models.Customer
+@model CustomerList
+@{
+    Layout = "_AdminLayout";
+}
+@{
+    int slNo = 0;
+    //var customerList = (List<CustomerCreate>)ViewBag.CustomerList;
+}
+
+<div class="card">
+    <div class="card-header">
+        @Model.Company.Name
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Company.Name</h5>
+        <p class="card-text">ID: @Model.Company.CompanyId</p>
+        <p class="card-text">Location: @Model.Company.Location</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">name</th>
+            <th scope="col">phone</th>
+            <th scope="col">Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Customer in Model.Customers)
+        {
+            <tr>
+                <td>
+                    @(++slNo)
+                </td>
+                <td>
+                    @Customer.name
+                </td>
+                <td>
+                    @Customer.phone
+                </td>
+                <td>
+                    @Customer.Email
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

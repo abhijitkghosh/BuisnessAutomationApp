@@ -1,0 +1,12 @@
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\bin\Debug\net7.0\BusinessAutomations.Models.deps.json
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\bin\Debug\net7.0\BusinessAutomations.Models.dll
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\bin\Debug\net7.0\BusinessAutomations.Models.pdb
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.csproj.AssemblyReference.cache
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.AssemblyInfoInputs.cache
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.AssemblyInfo.cs
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.dll
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\refint\BusinessAutomations.Models.dll
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\BusinessAutomations.Models.pdb
+D:\ASP.NET Core Practice\Backend\BuisnessAutomationApp\BusinessAutomations.Models\obj\Debug\net7.0\ref\BusinessAutomations.Models.dll

@@ -1,0 +1,33 @@
+﻿@using BuisnessAutomationApp.Models.Customer
+@{
+    Layout = "_AdminLayout";
+}
+@model CustomerCreate
+
+
+<h2>Customer Create</h2>
+
+
+<form method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" asp-for="name" placeholder="Enter Name">
+        <span asp-validation-for="name" class="text-danger"></span>
+        
+        
+    </div>
+    <div class="form-group">
+        <label for="Phone">Phone</label>
+        <input type="text" class="form-control" asp-for="phone" placeholder="Phone No">
+        <span asp-validation-for="phone" class="text-danger"></span>
+        
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="text" class="form-control" asp-for="Email" placeholder="Email">
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+    
+</form>
